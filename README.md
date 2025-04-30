@@ -5,7 +5,7 @@ A multi-agent system that connects to your **Gmail** and **Google Calendar**, su
 🎯 Built as a portfolio project to showcase agent orchestration, API integration, and minimal web UI.
 
 
-📋 ## Features
+## 📋 Features
 
 - ✅ Google OAuth login (Gmail + Calendar access)
 - 🧾 Summarizes today’s unread emails
