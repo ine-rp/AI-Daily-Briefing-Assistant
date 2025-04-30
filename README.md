@@ -73,14 +73,21 @@ python app.py
 Open http://127.0.0.1:5000 to get started.
 
 
-## Powered By
+## What I Learned
+	•	How to build multi-agent workflows with CrewAI
+	•	How to use Google APIs with secure OAuth
+	•	How to connect real data to language models
+	•	How to structure a clean, testable AI product from scratch
 
+
+
+## Tech Stack
 	•	CrewAI
-	•	Gemini
 	•	Langchain
+	•	Gemini
 	•	Flask
-	•	Google Gmail API
 	•	Google Calendar API
+	•	Gmail API
 
 
 ## License
