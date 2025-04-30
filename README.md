@@ -5,7 +5,7 @@ A multi-agent system that connects to your **Gmail** and **Google Calendar**, su
 🎯 Built as a portfolio project to showcase agent orchestration, API integration, and minimal web UI.
 
 
-## Features
+📋 ## Features
 
 - ✅ Google OAuth login (Gmail + Calendar access)
 - 🧾 Summarizes today’s unread emails
@@ -73,7 +73,7 @@ python app.py
 Open http://127.0.0.1:5000 to get started.
 
 
-## 🧠What I Learned
+## 🧠 What I Learned
 	•	How to build multi-agent workflows with CrewAI
 	•	How to use Google APIs with secure OAuth
 	•	How to connect real data to language models
