@@ -73,7 +73,7 @@ python app.py
 Open http://127.0.0.1:5000 to get started.
 
 
-## What I Learned
+## 🧠What I Learned
 	•	How to build multi-agent workflows with CrewAI
 	•	How to use Google APIs with secure OAuth
 	•	How to connect real data to language models
@@ -81,7 +81,7 @@ Open http://127.0.0.1:5000 to get started.
 
 
 
-## Tech Stack
+## 💻 Tech Stack
 	•	CrewAI
 	•	Langchain
 	•	Gemini
